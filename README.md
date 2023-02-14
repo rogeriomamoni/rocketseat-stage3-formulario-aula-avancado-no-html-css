@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Formulário Aula - Stage 03 - Avançando no HTML e CSS - Recriando layout" src="./images/imageReadme.png" width="100%">
+  <img alt="Formulário Aula - Stage 03 - Avançando no HTML e CSS - Recriando layout" src="./images/imageReadme.png" width="40%">
 </p>
 
 ## 🛠 Tecnologias
