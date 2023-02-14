@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Formulário Aula - Stage 03 - Avançando no HTML e CSS - Recriando layout" src="./images/imageReadme.png" width="40%">
+  
 </p>
 
 ## 🛠 Tecnologias
@@ -31,7 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Campo select;
 - Campo checkbox;
 - Imagem centralizada no header.
-  
 </p>
 
 ## 🎨 Layout
