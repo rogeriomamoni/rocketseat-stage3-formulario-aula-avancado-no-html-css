@@ -10,6 +10,7 @@
 <br>
 
 <p align="center">
+<img alt="Iniciando Projeto 01" src="./images/imageReadme.png" width="40%">
   
 </p>
 
