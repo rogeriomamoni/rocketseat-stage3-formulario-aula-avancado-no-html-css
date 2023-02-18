@@ -29,9 +29,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   
  Nessa aula foi direcionado a criação de um formulário a partir de um layout pronto no Figma, para fortalecer alguns conceitos aprendidos nessa aula, entre eles:
 
-- Campo select;
-- Campo checkbox;
-- Imagem centralizada no header.
+- Estilos de página;
+- Agrupamentos de campos com fieldset e legend;
+- Formatação e ajuste de campos do fieldset;
+- Estilos para o submit;
+- Validação de campos e submetendo fomulários.
+
 </p>
 
 ## 🎨 Layout
